@@ -1,0 +1,27 @@
+.info-box {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-family: 'Arial, sans-serif';
+    font-size: 14px;
+    z-index: 10;
+    max-width: 300px;
+  }
+  
+  .info-box h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .info-box p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  

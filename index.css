@@ -1,0 +1,24 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+}
+
+nav {
+  @apply bg-gray-800 text-white;
+}
+
+nav ul {
+  @apply flex space-x-4;
+}
+
+nav ul li {
+  @apply p-2;
+}
+
+nav ul li a {
+  @apply text-white no-underline hover:underline;
+}

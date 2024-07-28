@@ -1,0 +1,49 @@
+/* src/pages/Cryptocurrency.css */
+.crypto-container {
+    background: url('https://example.com/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 2rem;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .crypto-title {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .crypto-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .crypto-card {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .crypto-icon {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .crypto-name {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .crypto-price {
+    font-size: 1.125rem;
+  }
+  
+  .crypto-error {
+    color: #f44336;
+    margin-top: 1rem;
+  }
+  

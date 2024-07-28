@@ -1,29 +1,8 @@
-# FOSS-HACKATHON-24
-Multi tool webapp for Developers is a comprehensive collection of useful tools that can be used by developers to enhance their productivity and streamline processes. 
-Tech stack- MERN stack. 
-Tools created- 
+# React + Vite
 
-Productivity- 
-1. Pomodoro timer.
-2. Task scheduler.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Finance- 
-1. Interest calculator
-2. Investment calculator
+Currently, two official plugins are available:
 
-Security- 
-1. ASCII and RSA encoder/decoder. 
-2. Steganography tool 
-3. Password generator.
-
-Geography/Astronomy- 
-1. Find the current time using a map.
-2. Mass of celestial objects.
-3. Coordinates of cities.
-4. Weather application. 
-
-Data Analytics- 
-Data Visualiser 
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
