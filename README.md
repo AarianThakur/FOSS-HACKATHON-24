@@ -16,8 +16,8 @@ Security-
 2. Steganography tool 
 3. Password generator.
 
-Geography/Astonomy- 
-1. Find current time using a map.
+Geography/Astronomy- 
+1. Find the current time using a map.
 2. Mass of celestial objects.
 3. Coordinates of cities.
 4. Weather application. 
